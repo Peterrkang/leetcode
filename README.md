@@ -1,0 +1,3 @@
+# leetcode
+
+Flatten - Easy
