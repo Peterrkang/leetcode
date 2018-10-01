@@ -1,5 +1,5 @@
 # leetcode
 
-###Recursion
-*Flatten
-*Fibonacci
+### Recursion
+* Flatten
+* Fibonacci
